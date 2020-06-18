@@ -30,3 +30,6 @@ Mobile ->
 --Context API to create a Dark/Light theme functionality
 
 
+I haven't tought about a name for the app yet, but I'll think about it...
+
+
